@@ -4,6 +4,8 @@
 
 Simple but cool looking animation built with Canvas API
 
+View demo - https://canvas-circles.vercel.app/.
+
 ## Stack
 - Canvas
 - Javascript
