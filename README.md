@@ -1,7 +1,5 @@
 # canvas-circles
 
-![alt text](https://i.ibb.co/5jYZCj1/particles.png)
-
 Simple but cool looking animation built with Canvas API
 
 View demo - https://canvas-circles.vercel.app/.
