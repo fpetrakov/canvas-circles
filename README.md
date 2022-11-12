@@ -9,13 +9,12 @@ View demo - https://canvas-circles.vercel.app/.
 ## Stack
 - Canvas
 - Javascript
-- SCSS
-- Gulp
+- Vite
 - CSS
 - HTML
 
 ## NPM Commands
 | Script  | Description |
 | ------------- | ------------- |
-| npm start  | Start gulp development server at localhost:3000  |
-| npm run build  | Build the application to ./dist directory  |
+| pnpm run dev  | Start development server at localhost:5173  |
+| pnpm run build  | Build the application to ./dist directory  |
