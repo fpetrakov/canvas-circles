@@ -1,0 +1,14 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.click {
+  top: 0;
+  left: 0;
+  position: absolute;
+  font-weight: 700;
+}
